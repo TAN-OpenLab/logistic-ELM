@@ -17,3 +17,9 @@ Considering both accuracy and the real-time requirement, we propose a novel fast
 **Logistic_ELM.m**    : diagnose fault type from the feature matrix.
 
 **MainLogisticELM.m** : the main funcion, diagnose fault type from the sample data.
+
+## Dataset
+
+We use the rolling bearing vibration signal dataset prepared by the Case Western Reserve University (CWRU) Bearing Data Centre, and you can get if from http://csegroups.case.edu/bearingdatacenter/home.
+
+We also upload the preprocessed data files here as examples, named **Data_File**.
