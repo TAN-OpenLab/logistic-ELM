@@ -2,7 +2,7 @@
 A fast fault diagnosis method for rolling bearings, based on extreme learning machine (ELM) and logistic mapping.
 ## Introduction
 
-Considering both accuracy and the real-time requirement, we propose a novel fast fault diagnosis method for rolling bearings.
+Considering both accuracy and the real-time requirement, we propose a novel fast fault diagnosis method for rolling bearings. First, we extract 14 kinds of time-domain features from the original vibration signals and adopt the sequential forward selection (SFS) strategy to select features to ensure a further reduction in dimensionality. Next, we utilize logistic-ELM for fast fault classification, and replace the random input weights in ELM by the logistic mapping sequence.
 
 ## Function Description
 
