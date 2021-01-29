@@ -1,5 +1,5 @@
 
-function feature = Extrat14Features(Sample_File)
+function feature = Extract14Features(Sample_File)
 
 % Input:
 % Sample_File                - Filename of sample data set(the original vibration signals and their labels)         
