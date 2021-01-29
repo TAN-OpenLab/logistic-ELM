@@ -6,7 +6,7 @@ Considering both accuracy and the real-time requirement, we propose a novel fast
 
 ## Function Description
 
-**Extrat14Features.m**: extrat 14 features from the sample data.
+**Extract14Features.m**: extrat 14 features from the sample data.
 
 **FeatureSelection.m**: select features which have best performance for fault diagnosis by the sequential forward selection (SFS), and combine into the feature matrix.
 
